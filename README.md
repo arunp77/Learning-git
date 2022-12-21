@@ -9,7 +9,16 @@ This repository contains the step by step for learning GIT and updating GITHUB.
 Git is a version control system that helps developers track and manage changes to their code. Here are some steps to follow to get started:
 
 1. Install Git on your computer. You can download the latest version of Git from the official website (https://git-scm.com/downloads).
-
+  - **Installing on Linux**
+     If you want to install the basic Git tools on Linux via a binary installer, you can generally do so through the package management tool that comes with your   
+     distribution. If you’re on Fedora (or any closely-related RPM-based distribution, such as RHEL or CentOS), you can use dnf:
+     `$ sudo dnf install git-all`
+     
+     If you’re on a Debian-based distribution, such as Ubuntu, try apt:
+     `$ sudo apt install git-all`
+ - **Installing on macOS**
+  hjfjs
+ - **Installing on Windows**
 2. Set up your Git configuration. This includes setting your username and email address, which will be associated with your commits. You can do this by running the following commands:
 
 git config --global user.name "Your Name"
