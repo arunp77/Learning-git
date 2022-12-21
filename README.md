@@ -6,7 +6,32 @@ This repository contains the step by step for learning GIT and updating GITHUB.
 
 <img src="https://user-images.githubusercontent.com/15100077/208880325-73824c43-81e1-4be7-b363-b46c6e18567c.png" width="300" height="250">
 
-Git is a version control system that helps developers track and manage changes to their code. Here are some steps to follow to get started:
+# **GIT:** GIT is a version control system that helps developers track and manage changes to their code. A version control system helps developers store every change they make to a file at different stages so they and their teammates can retrieve those changes at a later time. 
+# **GitHub:** GitHub is a web interface where you store your Git repositories and track and manage your changes effectively. It gives access to the code to various
+     developers working on the same project. You can make your own changes to a project at the same time as other developers are making theirs.
+
+     If you accidentally mess up some code in your project while making changes, you can easily go back to the previous stage where the mess has not occurred yet.
+
+There are three types of version control systems, which are:
+
+- **Local Version Control Systems:** This is a type of version control system that is very common and simple to use. But this method is quite prone to errors and
+    attacks because the files are being stored in your local system.
+    This means that you might lose the system file or accidentally forget the directory/folder of the file you are working (and then write in another directory).
+- **Centralized Version Control Systems:** In this type of version control, a server act as a repository that stores each version of the code. The CVCS helps different     developers collaborate together.
+    
+    Despite the helpful collaboration and communication between developers, if a server goes down for few seconds or gets corrupted, there's the chance you'll lose
+    your work. Unfortunately, this is a very big problem with the CVCS.
+    
+    In CVCS, only a few developers can work together on a project.
+- **stributed Version Control Systems:** This is the latest and most commonly used type of version control system these days.
+
+     In a DVCS all developers have a full back up (clone) of all the data in the server. This means that whenever the server is down or faulty, you can still work on
+     your project and you can copy or back up your repositories to the server to restore them.
+
+     When you're using a DVCS, many developers can work together on a project. One popular DVCS is Git, which we'll talk about more now.
+
+
+Here are some steps to follow to get started:
 
 1. Install Git on your computer. You can download the latest version of Git from the [official website](https://git-scm.com/downloads).
 
