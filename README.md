@@ -17,9 +17,6 @@ This repository contains the step by step for learning GIT and updating GITHUB.
 
    ![image](https://user-images.githubusercontent.com/15100077/208980420-016f94eb-4a6b-423b-98f8-05606faf3f24.png)
    
-   ![image](https://user-images.githubusercontent.com/15100077/208982793-e4627ccb-5ac4-4989-a2b5-3dd1d1182d67.png)
-   ![image](https://user-images.githubusercontent.com/15100077/208983941-202abfde-9d1d-462e-b999-dbddc67894d2.png)
-   
    ![image](https://user-images.githubusercontent.com/15100077/208983999-5167e2dc-91ea-4bd7-9f35-f2d81a29566c.png)
 
 
