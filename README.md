@@ -35,6 +35,10 @@ This repository contains the step by step for learning GIT and updating GITHUB.
      When you're using a DVCS, many developers can work together on a project. One popular DVCS is Git, which we'll talk about more now.
 
 
+# ** Steps to follow**
+  a). Create a GitHub account and make a repository at github
+  b). Next install Git and configure it.
+
 # **Starting with GIT**
 
 Here are some steps to follow to get started:
