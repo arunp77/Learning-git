@@ -44,10 +44,25 @@ This repository contains the step by step for learning GIT and updating GITHUB.
 
 # **Create GitHub account:**
    - Visit [official GitHub website](https://github.com/) and create account
+   
      ![image](https://user-images.githubusercontent.com/15100077/208905059-2565eb30-95a2-44cd-b6a4-944d7927b0f8.png)
-   - Enter your email id
-    ![image](https://user-images.githubusercontent.com/15100077/208905358-9f18a519-4fc6-453f-be41-5cfa618fd50b.png)
-   - d
+     
+   - Enter your email id 
+       
+      ![image](https://user-images.githubusercontent.com/15100077/208906231-10b1d922-6520-4ab4-a5a0-57d01105d190.png)
+    
+      here, follow the steps on display and create your account.
+   - During the account creation, it may be asked about specific features, you are interested in as
+    
+      ![image](https://user-images.githubusercontent.com/15100077/208907825-282e183f-d20c-41c5-8316-515f50d57869.png) 
+      
+      then choose whichever is suitable for you. For a starter, you should choose collaborative coding.
+   - Next choose "Continue for free" option, if you don't want to learn just as a bigginer.
+   - You will be taken to your home dashboard. 
+    
+     ![image](https://user-images.githubusercontent.com/15100077/208909141-53088dc0-abb3-4235-a058-2d12a6000e7b.png)
+
+   - Now, there are two options two create a repository: First one is just click on create a repository and follow the on screen steps and second one is go to top right corner and click on the `+` symbol and open the *New repository* option.
 
     
 # **Starting with GIT**
