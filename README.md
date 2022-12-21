@@ -187,6 +187,10 @@ Here are some steps to follow to get started:
 # **Important commands**
   
   Here is a list of some important Git commands that you might find useful when working with Git:
+  
+  | Command | Explanation |
+  |---------|-------------|
+  | `git init` | Initializes a new Git repository in the current directory. |
 
    `git init`       : Initializes a new Git repository in the current directory.
 
