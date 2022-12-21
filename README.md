@@ -21,7 +21,7 @@ Git is a version control system that helps developers track and manage changes t
           `$ sudo apt install git-all`
      - **Installing on macOS**
           There are several options for installing Git on macOS. 
-     - Homebrew:
+          - Homebrew:
           If you don't have homebrew on your mac, install it using:
      
           `$ Install homebrew`
@@ -29,14 +29,15 @@ Git is a version control system that helps developers track and manage changes t
           Next use
           
           `$ brew install git`
-     - MacPorts: Install MacPorts if you don't already have it, then:
+          - MacPorts: Install MacPorts if you don't already have it, then:
      
           `$ sudo port install git`
      
-     - Xcode:
-      Apple ships a binary package of Git with [Xcode](https://developer.apple.com/xcode/).
+          - Xcode:
+           Apple ships a binary package of Git with [Xcode](https://developer.apple.com/xcode/).
   
-     - **Installing on Windows:** Follow the links and steps given at [offical git windows website](https://git-scm.com/download/win) 
+     - **Installing on Windows:** 
+          Follow the links and steps given at [offical git windows website](https://git-scm.com/download/win) 
     
 
 2. Set up your Git configuration. This includes setting your username and email address, which will be associated with your commits. You can do this by running the following commands:
