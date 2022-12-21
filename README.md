@@ -16,6 +16,7 @@ This repository contains the step by step for learning GIT and updating GITHUB.
    If you accidentally mess up some code in your project while making changes, you can easily go back to the previous stage where the mess has not occurred yet.
 
 # **Version control**
+
    There are three types of version control systems, which are:
 
 - **Local Version Control Systems:** This is a type of version control system that is very common and simple to use. But this method is quite prone to errors and
@@ -36,7 +37,9 @@ This repository contains the step by step for learning GIT and updating GITHUB.
 
 
 # ** Steps to follow**
+
   a). Create a GitHub account and make a repository at github
+  
   b). Next install Git and configure it.
 
 # **Starting with GIT**
