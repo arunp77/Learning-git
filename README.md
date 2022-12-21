@@ -88,24 +88,26 @@ Here are some steps to follow to get started:
           sudo dnf install git-all
           ```
           If you’re on a Debian-based distribution, such as Ubuntu, try apt:
-     
-          `$ sudo apt install git-all`
+          ```
+          sudo apt install git-all
+          ```
      - **Installing on macOS**
           There are several options for installing Git on macOS. 
-          - Homebrew:
-          If you don't have homebrew on your mac, install it using:
-     
-          `$ Install homebrew`
-     
-          Next use
-          
-          `$ brew install git`
-          - MacPorts: Install MacPorts if you don't already have it, then:
-     
-          `$ sudo port install git`
-     
-          - Xcode:
-           Apple ships a binary package of Git with [Xcode](https://developer.apple.com/xcode/).
+           - Homebrew:
+           If you don't have homebrew on your mac, install it using:
+           ```  
+           Install homebrew
+           ```
+           Next use
+           ```
+            brew install git
+           ```
+           - MacPorts: Install MacPorts if you don't already have it, then
+           ```
+           sudo port install git
+           ```
+           - Xcode:
+            Apple ships a binary package of Git with [Xcode](https://developer.apple.com/xcode/).
   
      - **Installing on Windows:** 
           Follow the links and steps given at [offical git windows website](https://git-scm.com/download/win) 
@@ -114,33 +116,34 @@ Here are some steps to follow to get started:
 2. **Configuration:** 
   Set up your Git configuration. This includes setting your username and email address, which will be associated with your commits. You can do this by running the   
   following commands:
-
-     `git config --global user.name "Your Name"`
-  
-     `git config --global user.email "your_email@example.com"`
-      
+     ```
+     git config --global user.name "Your Name"
+     ```
+     ```
+     git config --global user.email "your_email@example.com"
+     ``` 
    Git comes with a default branch of master, so I changed it to be called the main branch by using the 
-   
-     `git config --global init.default branch main`
-     
+     ```
+     git config --global init.default branch main
+     ```
    command.
 
 3. **Create a new Git repository**
    A repository is a directory that holds all the files related to a project, as well as all the commits made to those files. To create a new repository, navigate to
    the directory where you want to store your project and run the following command:
-
-    `git init`
-
+    ```
+    git init
+    ```
 4. **Add files to the repository:** You can start adding files to your repository by running the following command:
-
-    `git add <filename>`
-
-    You can also add all the files in a directory by running git add ..
+    ```
+    git add <filename>
+    ```
+    You can also add all the files in a directory by running `git add ..`
 
 5. **Commit your changes** Once you've added files to your repository, you can commit your changes by running the following command:
-
-    `git commit -m "Commit message"`
-
+    ```
+    git commit -m "Commit message"
+    ```
     The commit message should briefly describe the changes you made.
 
 # **Branching, pulling, and pushing**
@@ -149,9 +152,9 @@ Here are some steps to follow to get started:
   - Branching: Branching allows you to create a separate line of development for your codebase. This is useful when you want to work on a new feature or fix a bug
     without affecting the main branch of your codebase. To create a new branch, you can use the git branch command, followed by the name of the new branch. For
     example: 
-    
-    `git branch my-new-feature`
-
+    ```
+    git branch my-new-feature
+    ```
   - Pulling: Pulling is the process of retrieving updates from a remote repository and merging them into your local repository. This is useful when you want to 
      incorporate changes made by other team members into your codebase. To pull updates from a remote repository, you can use the git pull command. For example: git
      pull origin master.
