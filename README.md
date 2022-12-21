@@ -44,7 +44,10 @@ This repository contains the step by step for learning GIT and updating GITHUB.
 
 # **Create GitHub account:**
    - Visit [official GitHub website](https://github.com/) and create account
-   - ![image](https://user-images.githubusercontent.com/15100077/208904536-b4efeee6-e206-4711-a399-139450e6f7b3.png)
+     ![image](https://user-images.githubusercontent.com/15100077/208905059-2565eb30-95a2-44cd-b6a4-944d7927b0f8.png)
+   - Enter your email id
+    ![image](https://user-images.githubusercontent.com/15100077/208905358-9f18a519-4fc6-453f-be41-5cfa618fd50b.png)
+   - d
 
     
 # **Starting with GIT**
