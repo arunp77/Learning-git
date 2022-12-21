@@ -15,6 +15,7 @@
 ## Check status:
 
 `git status`
+
 `git help <command>` Help for each command
 
 Add files
