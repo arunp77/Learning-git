@@ -62,7 +62,8 @@ This repository contains the step by step for learning GIT and updating GITHUB.
     
      ![image](https://user-images.githubusercontent.com/15100077/208909141-53088dc0-abb3-4235-a058-2d12a6000e7b.png)
 
-   - Now, there are two options two create a repository: First one is just click on create a repository and follow the on screen steps and second one is go to top right corner and click on the `+` symbol and open the "*New repository*" option.
+   - Now, there are two options two create a repository: First one is just click on create a repository and follow the on screen steps and second one is go to top 
+     right corner and click on the `+` symbol and open the "*New repository*" option.
    - Now enter the repository name and let other options as it is and then click "_Create repository_"
 
       ![image](https://user-images.githubusercontent.com/15100077/208909817-f73ad2b4-bee5-4478-b96a-abd0c4a4ab4f.png)
@@ -82,6 +83,7 @@ Here are some steps to follow to get started:
 1. **Instalation:** Install Git on your computer. You can download the latest version of Git from the [official website](https://git-scm.com/downloads).
 
      - **Installing on Linux**
+     
           If you want to install the basic Git tools on Linux via a binary installer, you can generally do so through the package management tool that comes with your
           distribution. If you’re on Fedora (or any closely-related RPM-based distribution, such as RHEL or CentOS), you can use dnf:
           ```
@@ -91,25 +93,36 @@ Here are some steps to follow to get started:
           ```
           sudo apt install git-all
           ```
+          
      - **Installing on macOS**
+          
           There are several options for installing Git on macOS. 
-           - Homebrew:
-           If you don't have homebrew on your mac, install it using:
+          
+         - Homebrew:
+          If you don't have homebrew on your mac, install it using:
+           
            ```  
            Install homebrew
            ```
-           Next use
+           
+          Next use
+           
            ```
             brew install git
            ```
-           - MacPorts: Install MacPorts if you don't already have it, then
-           ```
+           
+         - MacPorts: Install MacPorts if you don't already have it, then
+          
+          ```
            sudo port install git
            ```
-           - Xcode:
+         
+         - Xcode 
+         
             Apple ships a binary package of Git with [Xcode](https://developer.apple.com/xcode/).
   
      - **Installing on Windows:** 
+     
           Follow the links and steps given at [offical git windows website](https://git-scm.com/download/win) 
     
 
