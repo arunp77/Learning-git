@@ -158,25 +158,34 @@ Here are some steps to follow to get started:
 
   - Pushing: Pushing is the process of sending your local commits to a remote repository. This is useful when you want to share your changes with other team members or
     make them available for deployment. To push your commits to a remote repository, you can use the git push command. For example: git push origin my-new-feature.
+
 ## **Common issues with the branching, pulling and pushing**
-When you try to merge two branches that have diverged from each other, Git may detect conflicts between the changes made in each branch. To resolve these conflicts, you will need to manually edit the conflicting files to decide which changes to keep and which to discard. Here's a general process for resolving conflicts in Git:
 
-Checkout the branch you want to merge into: Use the git checkout command to switch to the branch that you want to merge the other branch into.
+    - When you try to merge two branches that have diverged from each other, Git may detect conflicts between the changes made in each branch. To resolve these
+    conflicts, you will need to manually edit the conflicting files to decide which changes to keep and which to discard. Here's a general process for resolving
+    conflicts in Git:
 
-Attempt to merge the branches: Use the git merge command to attempt to merge the branches. If there are conflicts, Git will mark the conflicting lines in the code and will not allow the merge to be completed.
+    - Checkout the branch you want to merge into: Use the git checkout command to switch to the branch that you want to merge the other branch into.
 
-Identify the conflicting files: Use the git status command to see a list of files that contain conflicts. These files will be marked as "unmerged".
+    - Attempt to merge the branches: Use the git merge command to attempt to merge the branches. If there are conflicts, Git will mark the conflicting lines in the 
+      code and will not allow the merge to be completed.
 
-Open the conflicting files: Open the conflicting files in a text editor and look for the lines that are marked with conflict markers. These markers will indicate which changes are in conflict.
+    - Identify the conflicting files: Use the git status command to see a list of files that contain conflicts. These files will be marked as "unmerged".
 
-Decide which changes to keep: Review the conflicting changes and decide which ones you want to keep. You will need to edit the file to remove the conflict markers and keep only the changes that you want to keep.
+    - Open the conflicting files: Open the conflicting files in a text editor and look for the lines that are marked with conflict markers. These markers will indicate
+      which changes are in conflict.
 
-Mark the conflicts as resolved: Use the git add command to mark the conflicts as resolved. This will stage the modified files for commit.
+    - Decide which changes to keep: Review the conflicting changes and decide which ones you want to keep. You will need to edit the file to remove the conflict 
+      markers and keep only the changes that you want to keep.
 
-Commit the merge: Use the git commit command to commit the merge. You will need to provide a commit message to describe the changes that were made.
+    - Mark the conflicts as resolved: Use the git add command to mark the conflicts as resolved. This will stage the modified files for commit.
 
-Push the changes: If you are working with a remote repository, use the git push command to push the merged changes to the remote repository.
+    - Commit the merge: Use the git commit command to commit the merge. You will need to provide a commit message to describe the changes that were made.
+
+    - Push the changes: If you are working with a remote repository, use the git push command to push the merged changes to the remote repository.
+
 # **Important commands**
+  
   Here is a list of some important Git commands that you might find useful when working with Git:
 
    `git init`       : Initializes a new Git repository in the current directory.
