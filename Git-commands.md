@@ -1,30 +1,21 @@
 # Git commands
 
 ## Set up
-```
-git config --global user.name "User Name"
-```
-```
-git config --global user.email "email@email.com"
-```
-## Create a New Project:
-```
-- mkdir project
-```
-```
-cd project
-```
-```
-git init (initialise empty git repo in my folder (based on path) aka .git folder)
-```
-```
-ls -la (check my folder)
-```
-Check "world status":
-git status
 
-Help for each command
-git help <command>
+`git config --global user.name "User Name"`
+`git config --global user.email "email@email.com"`
+
+## Create a New Project:
+
+- `mkdir project`
+- `cd project`
+- `git init` (initialise empty git repo in my folder (based on path) aka .git folder)
+- `ls -la` (check my folder)
+
+## Check status:
+
+`git status`
+`git help <command>` Help for each command
 
 Add files
 git add . = add all on current branch
