@@ -1,7 +1,5 @@
 # **GIT & GITHUB**
 
-This repository contains the step by step for learning GIT and updating GITHUB.
-
 <!-- ![image](https://user-images.githubusercontent.com/15100077/208880325-73824c43-81e1-4be7-b363-b46c6e18567c.png)
 <img src="https://user-images.githubusercontent.com/15100077/208880325-73824c43-81e1-4be7-b363-b46c6e18567c.png" width="300" height="200"> -->
 
