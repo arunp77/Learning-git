@@ -78,7 +78,12 @@ Here are some steps to follow to get started:
      `git config --global user.name "Your Name"`
   
      `git config --global user.email "your_email@example.com"`
-
+      
+   Git comes with a default branch of master, so I changed it to be called the main branch by using the 
+   
+     `git config --global init.default branch main`
+     
+   command.
 
 3. **Create a new Git repository**
    A repository is a directory that holds all the files related to a project, as well as all the commits made to those files. To create a new repository, navigate to
