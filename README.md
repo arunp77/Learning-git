@@ -228,3 +228,8 @@ These are the basic steps for getting started with Git. To learn more about Git 
 
 **Find additional resources:** There are many resources available for learning Git, including books, online courses, and videos. As you become more comfortable with Git, you can explore these resources to learn more advanced concepts and techniques.
 
+
+![image](https://user-images.githubusercontent.com/15100077/208980420-016f94eb-4a6b-423b-98f8-05606faf3f24.png)
+
+
+
