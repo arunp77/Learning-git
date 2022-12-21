@@ -9,29 +9,34 @@ This repository contains the step by step for learning GIT and updating GITHUB.
 Git is a version control system that helps developers track and manage changes to their code. Here are some steps to follow to get started:
 
 1. Install Git on your computer. You can download the latest version of Git from the [official website](https://git-scm.com/downloads).
+
      - **Installing on Linux**
-     If you want to install the basic Git tools on Linux via a binary installer, you can generally do so through the package management tool that comes with your   
-     distribution. If you’re on Fedora (or any closely-related RPM-based distribution, such as RHEL or CentOS), you can use dnf:
+          If you want to install the basic Git tools on Linux via a binary installer, you can generally do so through the package management tool that comes with your
+          distribution. If you’re on Fedora (or any closely-related RPM-based distribution, such as RHEL or CentOS), you can use dnf:
      
-     `$ sudo dnf install git-all`
+          `$ sudo dnf install git-all`
      
-     If you’re on a Debian-based distribution, such as Ubuntu, try apt:
+          If you’re on a Debian-based distribution, such as Ubuntu, try apt:
      
-     `$ sudo apt install git-all`
-     
+          `$ sudo apt install git-all`
      - **Installing on macOS**
           There are several options for installing Git on macOS. 
-          - Homebrew:
-     If you don't have homebrew on your mac, install it using:
-     `$ Install homebrew`
-     Next use
-      `$ brew install git`
-   - MacPorts: Install MacPorts if you don't already have it, then:
-      `$ sudo port install git`
-   - Xcode:
+     - Homebrew:
+          If you don't have homebrew on your mac, install it using:
+     
+          `$ Install homebrew`
+     
+          Next use
+          
+          `$ brew install git`
+     - MacPorts: Install MacPorts if you don't already have it, then:
+     
+          `$ sudo port install git`
+     
+     - Xcode:
       Apple ships a binary package of Git with [Xcode](https://developer.apple.com/xcode/).
   
- - **Installing on Windows:** Follow the links and steps given at [offical git windows website](https://git-scm.com/download/win) 
+     - **Installing on Windows:** Follow the links and steps given at [offical git windows website](https://git-scm.com/download/win) 
     
 
 2. Set up your Git configuration. This includes setting your username and email address, which will be associated with your commits. You can do this by running the following commands:
