@@ -35,9 +35,11 @@ This repository contains the step by step for learning GIT and updating GITHUB.
      When you're using a DVCS, many developers can work together on a project. One popular DVCS is Git, which we'll talk about more now.
 
 
+# **Starting with GIT**
+
 Here are some steps to follow to get started:
 
-1. Install Git on your computer. You can download the latest version of Git from the [official website](https://git-scm.com/downloads).
+1. **Instalation:** Install Git on your computer. You can download the latest version of Git from the [official website](https://git-scm.com/downloads).
 
      - **Installing on Linux**
           If you want to install the basic Git tools on Linux via a binary installer, you can generally do so through the package management tool that comes with your
@@ -69,10 +71,13 @@ Here are some steps to follow to get started:
           Follow the links and steps given at [offical git windows website](https://git-scm.com/download/win) 
     
 
-2. Set up your Git configuration. This includes setting your username and email address, which will be associated with your commits. You can do this by running the following commands:
+2. **Configuration:** 
+  Set up your Git configuration. This includes setting your username and email address, which will be associated with your commits. You can do this by running the   
+  following commands:
 
-git config --global user.name "Your Name"
-git config --global user.email "your_email@example.com"
+  `git config --global user.name "Your Name"`
+  
+  `git config --global user.email "your_email@example.com"`
 
 
 3. Create a new Git repository. A repository is a directory that holds all the files related to a project, as well as all the commits made to those files. To create a new repository, navigate to the directory where you want to store your project and run the following command:
