@@ -188,33 +188,20 @@ Here are some steps to follow to get started:
   
   Here is a list of some important Git commands that you might find useful when working with Git:
   
-  | Command | Explanation |
-  |---------|-------------|
-  | `git init` | Initializes a new Git repository in the current directory. |
-
-   `git init`       : Initializes a new Git repository in the current directory.
-
-  `git clone`       : Clones an existing Git repository.
-
-   `git add`        : Adds one or more files to the staging area.
-
-   `git commit`     : Commits the staged changes to the repository.
-
-   `git push`       : Pushes the local commits to a remote repository.
-
-   `git pull`       : Pulls updates from a remote repository and merges them into the local repository.
-
-   `git branch`     : Lists, creates, or deletes branches.
-
-   `git checkout`   : Switches to a different branch.
-
-   `git merge`      : Merges changes from one branch into another.
-
-   `git log`        : Shows the commit history for the current branch.
-
-   `git status`     : Shows the status of the repository, including the staging area and the current branch.
-
-   `git diff`       : Shows the differences between the staging area and the most recent commit.
+  | Command        | Explanation                                                                           |
+  |----------------|---------------------------------------------------------------------------------------|
+  | `git init`     | Initializes a new Git repository in the current directory                             |
+  | `git clone`    | Clones an existing Git repository                                                     |
+  | `git add`      | Adds one or more files to the staging area                                            |
+  | `git commit`   | Commits the staged changes to the repository                                          |
+  | `git push`     | Pushes the local commits to a remote repository                                       |
+  | `git pull`     | Pulls updates from a remote repository and merges them into the local repository      |
+  | `git branch`   | Lists, creates, or deletes branches                                                   |
+  | `git checkout` | Switches to a different branch                                                        |
+  | `git merge`    | Merges changes from one branch into another                                           |
+  | `git log`      | Shows the commit history for the current branch                                       |
+  | `git status`   | Shows the status of the repository, including the staging area and the current branch |
+  | `git diff`     | Shows the differences between the staging area and the most recent commit             |
 
 
 These are the basic steps for getting started with Git. To learn more about Git and how to use it effectively, you can refer to the official documentation (https://git-scm.com/doc) or take an online course or tutorial. There are also many resources available online, such as blogs and forums, where you can ask questions and get help with specific issues.
