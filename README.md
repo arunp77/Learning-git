@@ -62,7 +62,12 @@ This repository contains the step by step for learning GIT and updating GITHUB.
     
      ![image](https://user-images.githubusercontent.com/15100077/208909141-53088dc0-abb3-4235-a058-2d12a6000e7b.png)
 
-   - Now, there are two options two create a repository: First one is just click on create a repository and follow the on screen steps and second one is go to top right corner and click on the `+` symbol and open the *New repository* option.
+   - Now, there are two options two create a repository: First one is just click on create a repository and follow the on screen steps and second one is go to top right corner and click on the `+` symbol and open the "*New repository*" option.
+   - Now enter the repository name and let other options as it is and then click "_Create repository_"
+
+      ![image](https://user-images.githubusercontent.com/15100077/208909817-f73ad2b4-bee5-4478-b96a-abd0c4a4ab4f.png)
+
+   - w
 
     
 # **Starting with GIT**
