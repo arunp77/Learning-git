@@ -96,5 +96,5 @@
   - `git reflog --date=relative` = displays changes relative to time
 
 ## References
-    1. [Git commands](https://gist.github.com/ZapDos7/9d2d536da77ad1448ab88511034ca672)
-    2. [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
+1. [Git commands](https://gist.github.com/ZapDos7/9d2d536da77ad1448ab88511034ca672)
+2. [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
