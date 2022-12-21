@@ -5,6 +5,7 @@ This repository contains the step by step for learning GIT and updating GITHUB.
 <!-- ![image](https://user-images.githubusercontent.com/15100077/208880325-73824c43-81e1-4be7-b363-b46c6e18567c.png) -->
 
 <img src="https://user-images.githubusercontent.com/15100077/208880325-73824c43-81e1-4be7-b363-b46c6e18567c.png" width="300" height="200">
+![image](https://user-images.githubusercontent.com/15100077/208980420-016f94eb-4a6b-423b-98f8-05606faf3f24.png)
 
 # **GIT** 
   GIT is a version control system that helps developers track and manage changes to their code. A version control system helps developers store every change they make   to a file at different stages so they and their teammates can retrieve those changes at a later time. 
@@ -14,12 +15,8 @@ This repository contains the step by step for learning GIT and updating GITHUB.
    developers working on the same project. You can make your own changes to a project at the same time as other developers are making theirs.
 
    If you accidentally mess up some code in your project while making changes, you can easily go back to the previous stage where the mess has not occurred yet.
-
-   ![image](https://user-images.githubusercontent.com/15100077/208980420-016f94eb-4a6b-423b-98f8-05606faf3f24.png)
    
-   ![image](https://user-images.githubusercontent.com/15100077/208983999-5167e2dc-91ea-4bd7-9f35-f2d81a29566c.png)
-
-
+   ![image](https://user-images.githubusercontent.com/15100077/208984262-42d275d7-f728-4c68-976a-34b2ee8626f4.png)
 
 
 # **Version control**
