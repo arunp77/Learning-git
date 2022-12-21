@@ -28,7 +28,7 @@ Git is a version control system that helps developers track and manage changes t
     - MacPorts: Install MacPorts if you don't already have it, then:
       `$ sudo port install git`
     - Xcode:
-      Apple ships a binary package of Git with ![Xcode](https://developer.apple.com/xcode/).
+      Apple ships a binary package of Git with [Xcode](https://developer.apple.com/xcode/).
   
  - **Installing on Windows**
 2. Set up your Git configuration. This includes setting your username and email address, which will be associated with your commits. You can do this by running the following commands:
