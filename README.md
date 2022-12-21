@@ -6,16 +6,17 @@ This repository contains the step by step for learning GIT and updating GITHUB.
 
 <img src="https://user-images.githubusercontent.com/15100077/208880325-73824c43-81e1-4be7-b363-b46c6e18567c.png" width="300" height="250">
 
-# **GIT:** 
-GIT is a version control system that helps developers track and manage changes to their code. A version control system helps developers store every change they make to a file at different stages so they and their teammates can retrieve those changes at a later time. 
+# **GIT** 
+  GIT is a version control system that helps developers track and manage changes to their code. A version control system helps developers store every change they make   to a file at different stages so they and their teammates can retrieve those changes at a later time. 
 
-# **GitHub:** 
+# **GitHub** 
    GitHub is a web interface where you store your Git repositories and track and manage your changes effectively. It gives access to the code to various
    developers working on the same project. You can make your own changes to a project at the same time as other developers are making theirs.
 
    If you accidentally mess up some code in your project while making changes, you can easily go back to the previous stage where the mess has not occurred yet.
 
-There are three types of version control systems, which are:
+# **Version control**
+   There are three types of version control systems, which are:
 
 - **Local Version Control Systems:** This is a type of version control system that is very common and simple to use. But this method is quite prone to errors and
     attacks because the files are being stored in your local system.
