@@ -43,7 +43,9 @@ This repository contains the step by step for learning GIT and updating GITHUB.
   b). Next install Git and configure it.
 
 # **Create GitHub account:**
-    - Visit [official GitHub website](https://github.com/) and create account
+   - Visit [official GitHub website](https://github.com/) and create account
+   - ![image](https://user-images.githubusercontent.com/15100077/208904536-b4efeee6-e206-4711-a399-139450e6f7b3.png)
+
     
 # **Starting with GIT**
 
