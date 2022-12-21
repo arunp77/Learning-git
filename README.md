@@ -107,17 +107,17 @@ Here are some steps to follow to get started:
        Install homebrew
        ```
            
-     Next use
+       Next use
            
        ```
        brew install git
        ```
            
-     - MacPorts: Install MacPorts if you don't already have it, then
+      - MacPorts: Install MacPorts if you don't already have it, then
           
-       ```
-       sudo port install git
-       ```
+        ```
+        sudo port install git
+        ```
          
       - Xcode 
 
