@@ -44,9 +44,9 @@ This repository contains the step by step for learning GIT and updating GITHUB.
 
 # **Create GitHub account:**
    - Visit [official GitHub website](https://github.com/) and create account
-      ============================================
+      
      ![image](https://user-images.githubusercontent.com/15100077/208905059-2565eb30-95a2-44cd-b6a4-944d7927b0f8.png)
-     ============================================
+     
    - Enter your email id 
        
       ![image](https://user-images.githubusercontent.com/15100077/208906231-10b1d922-6520-4ab4-a5a0-57d01105d190.png)
@@ -67,7 +67,12 @@ This repository contains the step by step for learning GIT and updating GITHUB.
 
       ![image](https://user-images.githubusercontent.com/15100077/208909817-f73ad2b4-bee5-4478-b96a-abd0c4a4ab4f.png)
 
-   - w
+   - Next you will have following view of your own repository on GitHub:
+    
+      ![image](https://user-images.githubusercontent.com/15100077/208910659-112748fc-a665-4c1c-8af2-ae9cb7124fb1.png)
+
+   - You can start with your repository now. To create a file, click on 'Create a new file'.
+       
 
     
 # **Starting with GIT**
