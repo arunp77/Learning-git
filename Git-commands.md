@@ -96,6 +96,4 @@
   - `git reflog --date=relative` = displays changes relative to time
 
     
-[Reference:]
-    
-    https://gist.github.com/ZapDos7/9d2d536da77ad1448ab88511034ca672
+[Reference:](https://gist.github.com/ZapDos7/9d2d536da77ad1448ab88511034ca672)
