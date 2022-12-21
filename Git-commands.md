@@ -2,25 +2,25 @@
 
 ## Set up
 
-`git config --global user.name "User Name"`
-`git config --global user.email "email@email.com"`
+`git config --global user.name "User Name"` (Here your user name)
+
+`git config --global user.email "email@email.com"` (Here provide your GitHub user email id)
 
 ## Create a New Project:
-
-- `mkdir project`
-- `cd project`
+- Open your terminal 
+- `mkdir XYZ` (Create a directory to work on a project named 'XYZ')
+- `cd XYZ` (After creting the directory, go to the directory)
 - `git init` (initialise empty git repo in my folder (based on path) aka .git folder)
 - `ls -la` (check my folder)
 
 ## Check status:
 
-`git status`
-
-`git help <command>` Help for each command
+- `git status` (To check the current status. Here all the message on the modification of the code will appear.)
+- `git help <command>` Help for each command, for example if want to know about 'commit', just type: `git help commit`.
 
 ## Add files
 
-- `git add .` = add all on current branch
+- `git add .` = add all on current branch. Basically modifications done in all files will be added to your current branch. For branches, this also works.
 - `git add -p <param=file>` = add part of file to staging area, ask for each change (if no param => all files) so we have more control and cleaner commits. 
     After any `git add`, we need a `git commit`, either a file or a pattern (e.g. *.txt)
 
@@ -38,7 +38,7 @@
 
 ## Check difference
 
-- `git diff` = displays what will be added if i git add, so what changed in the folder and hasn't been updated yet
+- `git diff` = displays what will be added if i `git add .`, so what changed in the folder and hasn't been updated yet
 - `git diff <filename>` = displays the alterations of a file (the modified and the commited versions of it)
 - `git diff --staged` = displays what has already been added and thus what changed will be recorded
 - `git diff HEAD` = displays changes since last commit
