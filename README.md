@@ -15,6 +15,9 @@ This repository contains the step by step for learning GIT and updating GITHUB.
 
    If you accidentally mess up some code in your project while making changes, you can easily go back to the previous stage where the mess has not occurred yet.
 
+   ![image](https://user-images.githubusercontent.com/15100077/208980420-016f94eb-4a6b-423b-98f8-05606faf3f24.png)
+
+
 # **Version control**
 
    There are three types of version control systems, which are:
@@ -227,9 +230,6 @@ These are the basic steps for getting started with Git. To learn more about Git 
 **Practice using Git:** The best way to learn Git is to use it. Create a new repository on GitHub and try out some of the Git commands you've learned. You can also try working through some of the interactive Git tutorials available on the GitHub Learning Lab (https://lab.github.com/).
 
 **Find additional resources:** There are many resources available for learning Git, including books, online courses, and videos. As you become more comfortable with Git, you can explore these resources to learn more advanced concepts and techniques.
-
-
-![image](https://user-images.githubusercontent.com/15100077/208980420-016f94eb-4a6b-423b-98f8-05606faf3f24.png)
 
 
 
