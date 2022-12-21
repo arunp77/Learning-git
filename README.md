@@ -16,6 +16,8 @@ This repository contains the step by step for learning GIT and updating GITHUB.
    If you accidentally mess up some code in your project while making changes, you can easily go back to the previous stage where the mess has not occurred yet.
 
    ![image](https://user-images.githubusercontent.com/15100077/208980420-016f94eb-4a6b-423b-98f8-05606faf3f24.png)
+   
+   ![image](https://user-images.githubusercontent.com/15100077/208982793-e4627ccb-5ac4-4989-a2b5-3dd1d1182d67.png)
 
 
 # **Version control**
