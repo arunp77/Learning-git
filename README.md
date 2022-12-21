@@ -9,7 +9,7 @@ This repository contains the step by step for learning GIT and updating GITHUB.
 Git is a version control system that helps developers track and manage changes to their code. Here are some steps to follow to get started:
 
 1. Install Git on your computer. You can download the latest version of Git from the [official website](https://git-scm.com/downloads).
-...- **Installing on Linux**
+     - **Installing on Linux**
      If you want to install the basic Git tools on Linux via a binary installer, you can generally do so through the package management tool that comes with your   
      distribution. If you’re on Fedora (or any closely-related RPM-based distribution, such as RHEL or CentOS), you can use dnf:
      
@@ -19,9 +19,9 @@ Git is a version control system that helps developers track and manage changes t
      
      `$ sudo apt install git-all`
      
- ...- **Installing on macOS**
-    There are several options for installing Git on macOS. 
-   - Homebrew:
+     - **Installing on macOS**
+          There are several options for installing Git on macOS. 
+          - Homebrew:
      If you don't have homebrew on your mac, install it using:
      `$ Install homebrew`
      Next use
