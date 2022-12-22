@@ -103,31 +103,31 @@ Here are some steps to follow to get started:
       There are several options for installing Git on macOS. 
       
       - Homebrew:
-       If you don't have homebrew on your mac, install it using:
+      If you don't have homebrew on your mac, install it using:
   
-       ```  
-       Install homebrew
-       ```
+      ```  
+      Install homebrew
+      ```
            
-       Next use
+      Next use
            
-       ```
-       brew install git
-       ```
+      ```
+      brew install git
+      ```
            
       - MacPorts: Install MacPorts if you don't already have it, then
           
-        ```
-        sudo port install git
-        ```
+      ```
+      sudo port install git
+      ```
          
       - Xcode 
 
-        Apple ships a binary package of Git with [Xcode](https://developer.apple.com/xcode/).
+      Apple ships a binary package of Git with [Xcode](https://developer.apple.com/xcode/).
   
      - **Installing on Windows:** 
      
-          Follow the links and steps given at [offical git windows website](https://git-scm.com/download/win) 
+      Follow the links and steps given at [offical git windows website](https://git-scm.com/download/win) 
     
 
 2. **Configuration:** 
