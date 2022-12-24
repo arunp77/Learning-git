@@ -39,7 +39,7 @@
 
 
 # How to start (if you have already git installed and if you have already a github account)
-
+1. When you have already a Github repository and you want to update a version of the file on the Github
 - Create a repository on GitHub.
 - Next clone the repository in your system, by using command
     ```
@@ -74,6 +74,11 @@
   git push "file name with extension"
   ```
 Now, if you don't have git installed in your system and you don't have a github account, then go ahead to the next section.
+
+2. When you first create file locally and you want to upload and update the file to a Github repository
+- Follow following steps.
+
+
 
 
 # Let's start with installing Git and creating a GitHub account
