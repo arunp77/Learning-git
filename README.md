@@ -42,36 +42,38 @@
 
 - Create a repository on GitHub.
 - Next clone the repository in your system, by using command
-  ```
-  git clone "Github HTTP clone link like https://github.com/username/XYZ.git"
-  ```
-- Then open VSCODE editor and find "Open folder option" and go to the folder where you have cloned the github repository. When you are inside the Github repository local folder, you can now create any file and push it to online GitHub repository. When you clone your repository to your local respository, you also get a file `.git`, which connects your local repository to the online Github repository. 
+    ```
+    git clone "Github HTTP clone link like https://github.com/username/XYZ.git"
+    ```
+- Then open VSCODE editor and find "Open folder option" and go to the folder where you have cloned the github repository. When you are inside the Github repository   
+  local folder, you can now create any file and push it to online GitHub repository. When you clone your repository to your local respository, you also get a file    `.git`, which connects your local repository to the online Github repository. 
 - After creating your file (let's say, you have created a file named `mycode.py`), check git status, by
-```
-git status
-```
-In output, you will find list of the files changed into your local repository. Now you need to `add` it to the staging area to track the changed that you make. Everytime you make a change in the file, it will create a local id. By this id, you can track the changes in future.
+  ```
+  git status
+  ```
+  In output, you will find list of the files changed into your local repository. Now you need to `add` it to the staging area to track the changed that you make.
+  Everytime you make a change in the file, it will create a local id. By this id, you can track the changes in future.
 - Use following command it add it to the staging area:
-```
-git add .
-```
-If you want to just add a specific file, then use:
-```
-git add "your file with extension"
-```
+  ```
+  git add .
+  ```
+  If you want to just add a specific file, then use:
+  ```
+  git add "your file with extension"
+  ```
 - After this, you need to commit the staged changes to the repository by
-```
-git commit -m "Commit message" -m "Commit message description"
-```
+  ```
+  git commit -m "Commit message" -m "Commit message description"
+  ```
 - Now it's time to push the commited files to the github repository.
-```
-git push
-```
-or to push a specific file, use
-```
-git push "file name with extension"
-```
-
+  ```
+  git push
+  ```
+  or to push a specific file, use
+  ```
+  git push "file name with extension"
+  ```
+Now, if you don't have git installed in your system and you don't have a github account, then go ahead to the next section.
 
 
 # Let's start with installing Git and creating a GitHub account
