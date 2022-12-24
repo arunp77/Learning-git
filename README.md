@@ -76,7 +76,9 @@
 
 2. When you first create file locally and you want to upload and update the file to a Github repository
   - Follow following steps.
-  - First create a local repository. For example lets create a local repository, named "demo-repo" and create a local file inside the local repository (let's the creted file is "index.py"). Then go the the created repository via the VSCODE terminal. Now you need to change the created local repository "demo-repo" into a git repostory, you need to initiat first. To do this, use following command
+  - First create a local repository. For example lets create a local repository, named "demo-repo" and create a local file inside the local repository 
+    (let's the creted file is "index.py"). Then go the the created repository via the VSCODE terminal. Now you need to change the created local repository "demo-repo" 
+    into a git repostory, you need to initiat first. To do this, use following command
     ```
     git init
     ```
