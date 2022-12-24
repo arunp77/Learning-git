@@ -116,7 +116,10 @@
       git push -u origin master
       ```
       here sometimes named as main. 
-
+      
+---
+> **What is repository:** A repository contains a directory named `.git`, where git keeps all of its metadata for the repository. The content of the `.git` directory is private to git.
+---
 
 Now, if you don't have git installed in your system and you don't have a github account, then go ahead to the next section.
 
