@@ -106,7 +106,7 @@
        ```
        git remote add origin https://github.com/username/XYZ.git
        ```
-       here remote is used to add a reference to the remote repository on GitHub.
+       here remote is used to add a reference to the remote repository "origin" on GitHub via the https link.
     - Now you can check the added reference to the remote repository to the github by
       ```
       git remote -v
