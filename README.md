@@ -95,11 +95,11 @@
       git commit -m "message" -m "description on the message"
       ```
     - Next when you try to push the locally created git repository to GitHub, it will show a error like 
-       ```fatal: origin doesnot appear to be repository 
-       fatal: couldnot read from remote repository
+      ```fatal: origin doesnot appear to be repository 
+      fatal: couldnot read from remote repository
 
-       Please make sure that you have the correct access rights and the repository exists.
-       ```
+      Please make sure that you have the correct access rights and the repository exists.
+      ```
     - So to get the acess rights, first create a empty repository on the GitHub website. Now copy the quick setup HTTPs link (something like 
        https://github.com/username/XYZ.git) for the newly created GitHub repsotory. Next go to the VSCODE terminal, where you where working and creating the
        local repository and in the terminal type
@@ -149,8 +149,8 @@ Now, if you don't have git installed in your system and you don't have a github 
     
      ![image](https://user-images.githubusercontent.com/15100077/208909141-53088dc0-abb3-4235-a058-2d12a6000e7b.png)
 
-   - Now, there are two options two create a repository: First one is just click on create a repository and follow the on screen steps and second one is go to top 
-     right corner and click on the `+` symbol and open the "*New repository*" option.
+   - Now, there are two options two create a repository: First one is just click on "_create repository_" and second one is by clicking "*New repository*", which is
+     inside the `+` symbol at the top right corner.
    - Now enter the repository name and let other options as it is and then click "_Create repository_"
 
       ![image](https://user-images.githubusercontent.com/15100077/208909817-f73ad2b4-bee5-4478-b96a-abd0c4a4ab4f.png)
@@ -172,74 +172,70 @@ Here are some steps to follow to get started:
     - **Installing on Linux**
      If you want to install the basic Git tools on Linux via a binary installer, you can generally do so through the package management tool that comes with your
      distribution. If you’re on Fedora (or any closely-related RPM-based distribution, such as RHEL or CentOS), you can use dnf:
-         
-     ```
-     sudo dnf install git-all
-     ```
-          
-     If you’re on a Debian-based distribution, such as Ubuntu, try apt:
+       ```
+       sudo dnf install git-all
+       ```
 
-     ```
-     sudo apt install git-all
-     ```
+      If you’re on a Debian-based distribution, such as Ubuntu, try apt:
+       ```
+       sudo apt install git-all
+       ```
 
     - **Installing on macOS**
 
       There are several options for installing Git on macOS. 
-      
       - Homebrew:
-      If you don't have homebrew on your mac, install it using:
-  
-      ```  
-      Install homebrew
-      ```
+        If you don't have homebrew on your mac, install it using:
+      
+        ```  
+        Install homebrew
+        ```
+
+        Next use
+
+        ```
+        brew install git
+        ```
            
-      Next use
-           
-      ```
-      brew install git
-      ```
-           
-      - MacPorts: Install MacPorts if you don't already have it, then
-          
-      ```
-      sudo port install git
-      ```
-         
+      - MacPorts: Install MacPorts if you don't already have it, then 
+        ```
+        sudo port install git
+        ```
+      
       - Xcode 
 
-      Apple ships a binary package of Git with [Xcode](https://developer.apple.com/xcode/).
+         Apple ships a binary package of Git with [Xcode](https://developer.apple.com/xcode/).
   
      - **Installing on Windows:** 
      
-      Follow the links and steps given at [offical git windows website](https://git-scm.com/download/win) 
+         Follow the links and steps given at [offical git windows website](https://git-scm.com/download/win) 
     
 
 2. **Configuration:** 
-  Set up your Git configuration. This includes setting your username and email address, which will be associated with your commits. You can do this by running the   
-  following commands:
+    Set up your Git configuration. This includes setting your username and email address, which will be associated with your commits. You can do this by running the
+    following commands:
      ```
      git config --global user.name "Your Name"
      ```
      ```
      git config --global user.email "your_email@example.com"
      ``` 
-   Git comes with a default branch of master, so I changed it to be called the main branch by using the 
+    Git comes with a default branch with name "master", so I changed it to be called the main branch by using the 
      ```
      git config --global init.default branch main
      ```
-   command.
+    command.
 
 3. **Create a new Git repository**
-   A repository is a directory that holds all the files related to a project, as well as all the commits made to those files. To create a new repository, navigate to
-   the directory where you want to store your project and run the following command:
-    ```
-    git init
-    ```
+    A repository is a directory that holds all the files related to a project, as well as all the commits made to those files. To create a new repository, navigate to
+    the directory where you want to store your project and run the following command:
+     ```
+     git init
+     ```
 4. **Add files to the repository:** You can start adding files to your repository by running the following command:
-    ```
-    git add <filename>
-    ```
+     ```
+     git add <filename>
+     ```
     You can also add all the files in a directory by running `git add ..`
 
 5. **Commit your changes** Once you've added files to your repository, you can commit your changes by running the following command:
