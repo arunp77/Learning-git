@@ -144,7 +144,7 @@ Now, if you don't have git installed in your system and you don't have a github 
       ![image](https://user-images.githubusercontent.com/15100077/208907825-282e183f-d20c-41c5-8316-515f50d57869.png) 
       
       then choose whichever is suitable for you. For a starter, you should choose collaborative coding.
-   - Next choose "Continue for free" option, if you don't want to learn just as a bigginer.
+   - Next choose "Continue for free" option, if you just want to learn as a bigginer.
    - You will be taken to your home dashboard. 
     
      ![image](https://user-images.githubusercontent.com/15100077/208909141-53088dc0-abb3-4235-a058-2d12a6000e7b.png)
