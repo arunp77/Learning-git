@@ -278,7 +278,9 @@ Branching is a important concepts in Git that allow you to work on your codebase
     ```
   - Pushing: Pushing is the process of sending your local commits to a remote repository. This is useful when you want to share your changes with other team members or
     make them available for deployment. To push your commits to a remote repository, you can use the git push command. For example: git push origin my-new-feature.
-# **Merging** In this final step, you will merge your newly created branch into the main branch. After you merge your pull request, the changes on your new branch
+    
+# **Merging** 
+   In this final step, you will merge your newly created branch into the main branch. After you merge your pull request, the changes on your new branch
    will be incorporated into main.
 
 ## **Common issues with the branching, pulling and Merging**
@@ -331,6 +333,11 @@ These are the basic steps for getting started with Git. To learn more about Git 
 **Practice using Git:** The best way to learn Git is to use it. Create a new repository on GitHub and try out some of the Git commands you've learned. You can also try working through some of the interactive Git tutorials available on the GitHub Learning Lab (https://lab.github.com/).
 
 **Find additional resources:** There are many resources available for learning Git, including books, online courses, and videos. As you become more comfortable with Git, you can explore these resources to learn more advanced concepts and techniques.
+
+# Reference
+1. [GitHub Training](https://githubtraining.github.io/training-manual/#/02_getting_started)
+2. [Github documentation](https://docs.github.com/en)
+3. [A video reference](https://youtube.com/watch?v=RGOj5yH7evk&feature=shares)
 
 
 
