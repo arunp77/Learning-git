@@ -312,24 +312,7 @@ Branching is a important concepts in Git that allow you to work on your codebase
 
 These are the basic steps for getting started with Git. To learn more about Git and how to use it effectively, you can refer to the official documentation (https://git-scm.com/doc) or take an online course or tutorial. There are also many resources available online, such as blogs and forums, where you can ask questions and get help with specific issues.
 
-# **Important commands**
-  
-  Here is a list of some important Git commands that you might find useful when working with Git:
-  
-  | Command        | Explanation                                                                           |
-  |----------------|---------------------------------------------------------------------------------------|
-  | `git init`     | Initializes a new Git repository in the current directory                             |
-  | `git clone`    | Clones an existing Git repository                                                     |
-  | `git add`      | Adds one or more files to the staging area                                            |
-  | `git commit`   | Commits the staged changes to the repository                                          |
-  | `git push`     | Pushes the local commits to a remote repository                                       |
-  | `git pull`     | Pulls updates from a remote repository and merges them into the local repository      |
-  | `git branch`   | Lists, creates, or deletes branches                                                   |
-  | `git checkout` | Switches to a different branch                                                        |
-  | `git merge`    | Merges changes from one branch into another                                           |
-  | `git log`      | Shows the commit history for the current branch                                       |
-  | `git status`   | Shows the status of the repository, including the staging area and the current branch |
-  | `git diff`     | Shows the differences between the staging area and the most recent commit             |
+**Practice using Git:** The best way to learn Git is to use it. Create a new repository on GitHub and try out some of the Git commands you've learned. You can also try working through some of the interactive Git tutorials available on the GitHub Learning Lab (https://lab.github.com/).
 
 
 # Summary 
@@ -429,19 +412,42 @@ These are the basic steps for getting started with Git. To learn more about Git 
   - `git reflog <branch>` = changes on our branch
   - `git reflog --date=relative` = displays changes relative to time
 
+
+  
+# **Important commands**
+  
+  Here is a list of some important Git commands that you might find useful when working with Git:
+  
+  | Command        | Explanation                                                                           |
+  |----------------|---------------------------------------------------------------------------------------|
+  | `git init`     | Initializes a new Git repository in the current directory                             |
+  | `git clone`    | Clones an existing Git repository                                                     |
+  | `git add`      | Adds one or more files to the staging area                                            |
+  | `git commit`   | Commits the staged changes to the repository                                          |
+  | `git push`     | Pushes the local commits to a remote repository                                       |
+  | `git pull`     | Pulls updates from a remote repository and merges them into the local repository      |
+  | `git branch`   | Lists, creates, or deletes branches                                                   |
+  | `git checkout` | Switches to a different branch                                                        |
+  | `git merge`    | Merges changes from one branch into another                                           |
+  | `git log`      | Shows the commit history for the current branch                                       |
+  | `git status`   | Shows the status of the repository, including the staging area and the current branch |
+  | `git diff`     | Shows the differences between the staging area and the most recent commit             |
+  
+  
 ## References
-1. [Git commands](https://gist.github.com/ZapDos7/9d2d536da77ad1448ab88511034ca672)
-2. [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
 
 
-**Practice using Git:** The best way to learn Git is to use it. Create a new repository on GitHub and try out some of the Git commands you've learned. You can also try working through some of the interactive Git tutorials available on the GitHub Learning Lab (https://lab.github.com/).
 
-**Find additional resources:** There are many resources available for learning Git, including books, online courses, and videos. As you become more comfortable with Git, you can explore these resources to learn more advanced concepts and techniques.
 
-# Reference
+# **Find additional resources:** 
+
+  There are many resources available for learning Git, including books, online courses, and videos. As you become more comfortable with Git, you can explore these resources to learn more advanced concepts and techniques.
+
 1. [GitHub Training](https://githubtraining.github.io/training-manual/#/02_getting_started)
 2. [Github documentation](https://docs.github.com/en)
 3. [A video reference](https://youtube.com/watch?v=RGOj5yH7evk&feature=shares)
+4. [Git commands](https://gist.github.com/ZapDos7/9d2d536da77ad1448ab88511034ca672)
+5. [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
 
 
 
