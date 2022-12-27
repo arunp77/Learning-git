@@ -434,11 +434,6 @@ These are the basic steps for getting started with Git. To learn more about Git 
   | `git diff`     | Shows the differences between the staging area and the most recent commit             |
   
   
-## References
-
-
-
-
 # **Find additional resources:** 
 
   There are many resources available for learning Git, including books, online courses, and videos. As you become more comfortable with Git, you can explore these resources to learn more advanced concepts and techniques.
