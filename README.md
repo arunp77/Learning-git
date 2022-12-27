@@ -331,7 +331,8 @@ These are the basic steps for getting started with Git. To learn more about Git 
   | `git status`   | Shows the status of the repository, including the staging area and the current branch |
   | `git diff`     | Shows the differences between the staging area and the most recent commit             |
 
-#Summary 
+
+# Summary 
 
 ## Set up
 
