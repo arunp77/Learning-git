@@ -35,3 +35,6 @@ Like GitLab and GitHub, Bitbucket also offers a free tier for private repositori
 | Feature	 | GitHub	 | GitLab |
 |----------|---------|--------|
 | Fees	| GitHub projects are free and open to all with publicly shared codes.	| GitLab is a repository that only lets its team of web developers collaborate on codes. |
+| Location	| GitHub doesn’t allow locating a repository inside an organization in the free plan. 	GitLab allows its users to locate a repository inside an organization while using the free plan. | 
+Issue Tracker	The issue tracker allows pulling requests so that the raised issues are automatically closed upon being merged to another repose.	Here, the issue tracker allows its users to associate issues with PRs to be closed automatically.|
+| Integration	| There is no built-in continuous integration in GitHub. It is provided by third-party vendors. 	|GitLab offers 100% built-in integration. They favor their own integration tools with continuous developments.  |
