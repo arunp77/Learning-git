@@ -29,3 +29,9 @@ GitLab is also a very common repository. GitLab has a slightly more user-friendl
 
 ## Bitbucket
 Like GitLab and GitHub, Bitbucket also offers a free tier for private repositories. Like GitHub, Bitbucket offers many similar features: Commit history, Pull requests, Issue tracking.
+
+# GitHub vs GitLab
+
+| Feature	 | GitHub	 | GitLab |
+|----------|---------|--------|
+| Fees	| GitHub projects are free and open to all with publicly shared codes.	| GitLab is a repository that only lets its team of web developers collaborate on codes. |
