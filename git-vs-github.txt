@@ -1,0 +1,1 @@
+GIT Repository is a mainstay place for your code. It keeps track of all the code changes which were made. You can think of this as a form of data structure.
